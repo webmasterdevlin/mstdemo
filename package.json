@@ -8,7 +8,7 @@
     "start:backend": "json-server --watch db.json --port 5000 --delay=750"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "mobx": "^5.10.1",
     "mobx-react": "^6.0.3",
     "mobx-state-tree": "^3.14.0",
